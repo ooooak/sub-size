@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 )
 
-const root = "D:\\audio-books\\rel\\maskeen_ji_katha"
+const root = "D:\\"
 const sp = os.PathSeparator
 
 func main() {
